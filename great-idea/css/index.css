@@ -93,7 +93,7 @@ a:hover {
 	margin: 20px 0 -11px 50px;
 }
 
-.section-one .top-section{
+.section-one .top-section{ 
 	margin-left: 50px;
 	margin-right:20px;
 }
@@ -137,12 +137,15 @@ h1{
 
 .features{
 	width: 48%;
-	margin: 2%
+	margin-top: 2%;
+	margin-right: 4%;
+	margin-bottom: 2%;
 }
 
 .about{
 	width: 48%;
-	margin: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 .middle-img{

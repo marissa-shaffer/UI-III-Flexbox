@@ -140,6 +140,10 @@ button{
     font-size: 12px;
 }
 
+button:hover{
+    background: cyan;
+}
+
 .service-facts{
     display: flex;
     margin-top: 5%;
